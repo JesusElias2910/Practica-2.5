@@ -5,7 +5,7 @@ Depto de Sistemas y Computación
 Ing. En Sistemas Computacionales  
 SISTEMAS PROGRAMABLES 23a  
 Autor: Jesús Elías Martínez  
-Fecha de entrega:   19/10/2023  
+Fecha de entrega:   23/10/2023  
 Objetivo: Crear un sitio web donde por medio de botones y conexión a internet desde la pico W, su led BLINK sea manipulado
 
 **Código de thonny**   
