@@ -1,4 +1,4 @@
-# Practica-2.5
+# Práctica-2.5
 
 # 2.5 Embeded Web Server PicoW (prender / apagar BLINK Led Interno via WEB)
 Depto de Sistemas y Computación  
