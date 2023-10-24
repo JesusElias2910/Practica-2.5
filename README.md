@@ -19,14 +19,14 @@ Lenguaje: Phyton
 **Resultados**  
 _LED BLINK encendido_
 Sitio web
-![](Imagenes/)  
+![](Imagenes/SW1.jpg)  
 
 Resultado en físico
-![](Imagenes/)  
+![](Imagenes/F1.jpg)  
 
 _LED BLINK apagado_
 Sitio web
-![](Imagenes/)  
+![](Imagenes/SW2.jpg)  
 
 Resultado en físico
-![](Imagenes/)  
+![](Imagenes/F2.jpg)  
