@@ -17,16 +17,16 @@ Lenguaje: Phyton
 ```
 
 **Resultados**  
-_LED BLINK encendido_
-Sitio web
+_LED BLINK encendido_  
+Sitio web  
 ![](Imagenes/SW1.jpg)  
 
-Resultado en físico
-![](Imagenes/F1.jpg)  
+Resultado en físico  
+![](Imagenes/F1.jpg)   
 
-_LED BLINK apagado_
-Sitio web
-![](Imagenes/SW2.jpg)  
+_LED BLINK apagado_  
+Sitio web  
+![](Imagenes/SW2.jpg)   
 
-Resultado en físico
+Resultado en físico  
 ![](Imagenes/F2.jpg)  
